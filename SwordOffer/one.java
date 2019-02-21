@@ -8,7 +8,7 @@ public class Solution {
         return count;
     }
 }
-
+// one.java
 求二进制(binary system)1的个数
 
 计算机中的负数是以其补码形式存在的 补码=原码取反+1。
